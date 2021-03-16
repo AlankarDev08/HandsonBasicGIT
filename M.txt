@@ -1,2 +1,0 @@
-Feature main
-Feature 2 is implemented
